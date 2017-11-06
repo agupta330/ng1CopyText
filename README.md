@@ -1,8 +1,5 @@
-ngCopyText - HTML5 (Non-Flash) Based Copy to clipboard using AngularJS
+ng1CopyText - HTML5 (Non-Flash) Based Copy to clipboard using AngularJS
 =======
-
-[![Build Status](https://travis-ci.org/codehangar/ng-copy-text.svg?branch=master)](https://travis-ci.org/codehangar/ng-copy-text)
-
 
 A simple AngularJS directive that uses document.exec('copy') and updates the user's clipboard.
 
@@ -10,28 +7,28 @@ A simple AngularJS directive that uses document.exec('copy') and updates the use
 ## How to get it ? 
 
 #### Manual Download
-Download the from [here](https://github.com/codehangar/ng-copy-text/releases)
+Download the from [here](https://github.com/agupta330/ng1CopyText/releases)
 
 #### Bower 
 ```
-bower install ng-copy-text
+bower install ng1CopyText
 ```
 <!--
 #### Npm
 ```
-npm install ng-copy-text
+npm install ng1CopyText
 ```
 -->
 
 #### CDN
-ng-clip is available at [cdnjs](http://www.cdnjs.com/libraries/ng-copy-text)
+ng-clip is available at [cdnjs](http://www.cdnjs.com/libraries/ng1CopyText)
 
 
 ## Usage
 
-1. Add ng-copy-text.js to your main file (index.html)
+1. Add ng1CopyText.js to your main file (index.html)
   ```html
-  <script type="text/javascript" src="bower_components/ng-copy-text/dist/ng-copy-text.js"></script>
+  <script type="text/javascript" src="bower_components/ng1CopyText/dist/ng1CopyText.js"></script>
   ```
 
 2. Set `ngCopyText` as a dependency in your module

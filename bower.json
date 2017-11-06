@@ -1,6 +1,6 @@
 {
   "name": "ng-copy-text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/ng-copy-text.js",
   "description": "HTML5 based Copy-to-Clipboard with AngularJS.",
   "homepage": "https://github.com/codehangar/ng-copy-text",
