@@ -1,9 +1,9 @@
 {
-  "name": "ng-copy-text",
+  "name": "ng1CopyText",
   "private": true,
   "version": "0.0.2",
   "description": "HTML5 based Copy-to-Clipboard with AngularJS",
-  "repository": "https://github.com/codehangar/ng-copy-text",
+  "repository": "https://github.com/agupta330/ng1CopyText",
   "license": "MIT",
   "devDependencies": {
     "extend": "~2.0.0",

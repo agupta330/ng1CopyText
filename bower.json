@@ -1,16 +1,16 @@
 {
-  "name": "ng-copy-text",
+  "name": "ng1CopyText",
   "version": "0.0.2",
-  "main": "./dist/ng-copy-text.js",
+  "main": "./dist/ng1CopyText.js",
   "description": "HTML5 based Copy-to-Clipboard with AngularJS.",
-  "homepage": "https://github.com/codehangar/ng-copy-text",
+  "homepage": "https://github.com/agupta330/ng1CopyText",
   "private": false,
   "authors": [
     "Ian Grail"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/codehangar/ng-copy-text.git"
+    "url": "git://github.com/agupta330/ng1CopyText.git"
   },
   "keywords": [
     "angular"
